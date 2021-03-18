@@ -2,10 +2,13 @@
 	"name": "vs-code-pusher",
 	"displayName": "vs_code_pusher",
 	"description": "Automated pushes to Github upon closing your code editor ",
-	"version": "0.0.1",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
+	"publisher": "Tedd4c",
+	"author": "Tedd4c",
+	"license": "GPLv3",
 	"categories": [
 		"Other"
 	],
